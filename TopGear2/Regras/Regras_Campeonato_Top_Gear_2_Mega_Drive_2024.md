@@ -49,9 +49,9 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 # **4 - Cronograma (Previsão):** #
 
-4.1 - As inscrições serão aceitas de XX/XX/2024 até às 20h00 do dia XX/XX/2024;
+4.1 - As inscrições serão aceitas de 30/04/2024 até às 20h00 do dia 05/05/2024;
 
-4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia XX/XX/2024;
+4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 07/05/2024;
 
 4.3 - Prazos previstos ( Todos em Horário de Brasília ):
 
@@ -206,8 +206,6 @@ Exemplo de postagem de resultado:
 - Proibido a desaceleração do carro ou parar totalmente o carro na pista antes do combustível acabar ou antes de aparecer Race Over na tela;
 
 - Se o carro quebrar por qualquer motivo que não exija fazer o load state, é proibido ficar batendo mais o carro propositalmente para perder posições e obter vantagem de largar na frente na pista seguinte;
-
-- Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel na qual é necessário dar Ré para evitar bater no muro ou situações similares;
 
 - As punições no caso da ocorrência de atitudes anti desportivas as citadas, podem variar de zeramento da pontuação da pista seguinte ou até mesmo eliminação do campeonato a ser julgado pela ADM do torneio.
 
